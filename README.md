@@ -4,7 +4,7 @@ Welcome to my page!
 
 I'm @prosystech-solutions, passionate about technology and innovation.  
 
-📍 Based in [Your Location]  
+📍 Based in London 
 
 ---
 
